@@ -9,6 +9,6 @@ MaterialDateTimePicker's new features.
 
 Currently it's just a Gregorian/Jalali(AKA. Shamsi) date picker. I will add Time picker ASAP.
 
-Date Picker | Time Picker
+Date Picker | Marshmallow Date Picker
 ---- | ----
 ![Date Picker](https://github.com/EmbeddedAndMore/Gregorian_Jalali_MaterialDateTimePicker/blob/master/photo1.jpg) | ![Marshmallow Date Picker](https://github.com/EmbeddedAndMore/Gregorian_Jalali_MaterialDateTimePicker/blob/master/photo2.jpg)
